@@ -1,9 +1,8 @@
-# Project Compilation README
+# Project Compilation 
 
 ## Overview
 This README file covers two distinct projects:
- 1. A major capstone project focused on developing a machine learning classifier for semiconductor manufacturing yield prediction.
- 2. A minor project involving the analysis of the NHANES dataset using numpy and matplotlib.
+ * A major capstone project focused on developing a machine learning classifier for semiconductor manufacturing yield prediction.
 
 **Major Project-Semiconductor Manufacturing Yield Classifier:** \
 **Domain:** Semiconductor Manufacturing Process
