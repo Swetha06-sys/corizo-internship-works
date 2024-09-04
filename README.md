@@ -23,7 +23,8 @@ Common Dependencies
   * Python 3.x
 
 **Major Project-Semiconductor Manufacturing Yield Classifier :**
-  * Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow/PyTorch (if using neural networks)
+  * Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow/PyTorch (if using neural networks) \
+    
 **Minor Project-NHANES Dataset Analysis:**
   * Libraries: NumPy, Matplotlib, Pandas (for handling data)
 
