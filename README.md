@@ -15,9 +15,6 @@ This README file covers two distinct projects:
   * Features: 591 features and 1 target column. The target column has values “-1” for pass and “1” for fail.
   * Project Objective: Build a classifier to predict the pass/fail yield and analyze feature relevance to determine if all features are necessary. 
 
-**Minor Project-NHANES Dataset Analysis:** \
-**Objective:** Analyze the NHANES dataset to perform various tasks related to data manipulation, visualization, and statistical analysis using numpy and matplotlib.
-
 **Requirements:**
 Common Dependencies
   * Python 3.x
@@ -25,9 +22,6 @@ Common Dependencies
 **Major Project-Semiconductor Manufacturing Yield Classifier :**
   * Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow/PyTorch (if using neural networks) 
     
-**Minor Project-NHANES Dataset Analysis:**
-  * Libraries: NumPy, Matplotlib, Pandas (for handling data)
-
 **Project Contributors:**
   * Swetha Dhanasekar - Lead Developer on both projects
 
