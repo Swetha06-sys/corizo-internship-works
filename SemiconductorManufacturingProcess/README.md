@@ -1,9 +1,9 @@
-## Semiconductor Manufacturing Process Yield Prediction
+# Semiconductor Manufacturing Process Yield Prediction
 
-# Project Overview
+## Project Overview
 This project focuses on building a classifier to predict the Pass/Fail yield of a semiconductor manufacturing process entity. The primary goal is to identify whether all features in the dataset are necessary for building an accurate model or if feature selection can be applied to identify the most relevant signals. By pinpointing these key signals, Process Engineers can determine factors contributing to yield excursions, thereby increasing process throughput, reducing learning time, and decreasing production costs.
 
-# Data Description
+## Data Description
 **Dataset:** signal.csv
 **Dimensions:** 1567 examples, 591 features
 **Target Column:**
