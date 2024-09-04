@@ -35,5 +35,5 @@ This project focuses on building a classifier to predict the Pass/Fail yield of 
     * Summarize results and provide conclusions on the effectiveness of the selected model.
     * Suggest potential improvements for future work.
 
-# Results and Insights :
+## Results and Insights :
 This project demonstrates the process of building a classifier to predict yield in a semiconductor manufacturing process. By analyzing and tuning various models, the project identifies the most effective approach for predicting pass/fail outcomes based on sensor data. The best-performing model is highlighted, with detailed conclusions provided to guide further improvements.
