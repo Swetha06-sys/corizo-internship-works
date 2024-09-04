@@ -27,8 +27,8 @@ Common Dependencies
 **Minor Project: NHANES Dataset Analysis**
   * Libraries: NumPy, Matplotlib, Pandas (for handling data)
 
-**Project Contributors**
+**Project Contributors:**
 Swetha Dhanasekar - Lead Developer on both projects
 
-**License**
+**License:**
 These projects are licensed under the MIT License  
